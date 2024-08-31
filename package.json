@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "utsavchab"
+    "url": "OmMoradiya"
   },
   "keywords": [
     "Big",
     "Integer"
   ],
-  "author": "Utsav Chabhadiya",
+  "author": "Om Moradiya",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
